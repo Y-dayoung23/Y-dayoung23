@@ -1,3 +1,3 @@
-![header].(https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%17Y-dayoung23%17&&animationsaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%17Y-dayoung23%17&&animation=scaleIn)
 
-[![*'s github stats]_(https://github-readme-stats.vercel.app/api?username=Y-dayoung23).].(https://github.com/jinh93).
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Y-dayoung23).].(https://github.com/jinh93).
